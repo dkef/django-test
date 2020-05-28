@@ -1,0 +1,16 @@
+// Compile stuffs
+*.pyc
+__pycache__
+
+// Database stuff
+migrations
+db.sqlite3
+
+// Weird mac thing
+.DS_Store
+
+// Virtual environment
+venv
+
+// Vscode
+.vscode
